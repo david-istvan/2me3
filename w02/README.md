@@ -2,11 +2,11 @@
 
 In this order:
 
- - `FirstSample.java`
- - `InputTest.java`
- - `EmployeeTest.java`
- - `ConstructorTest.java`
- - `/abstractClasses`
- - `/inheritance`
- - `/interfaces`
- - `/enums`
+ - `programs/FirstSample.java`
+ - `programs/InputTest.java`
+ - `programs/EmployeeTest.java`
+ - `programs/ConstructorTest.java`
+ - `programs/abstractClasses`
+ - `programs/inheritance`
+ - `programs/interfaces`
+ - `programs/enums`
