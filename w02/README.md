@@ -1,11 +1,10 @@
 # Java
 
-Notion for students:
+Note for students:
 https://rebel-order-0d7.notion.site/W2-tutorial-af14c0e245dc41f5a68f919a187e249e?pvs=4
 
-In this order:
-
-1. Instalation
+Outline:
+1. Installing Java
 2. Java syntax & execution using console
  - `programs/FirstSample.java`
 3. Input/output
