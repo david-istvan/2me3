@@ -1,1 +1,1 @@
-# Design patterns
+# git, GitHub
