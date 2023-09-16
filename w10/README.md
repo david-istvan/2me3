@@ -1,1 +1,1 @@
-# JUnit
+# Design patterns
