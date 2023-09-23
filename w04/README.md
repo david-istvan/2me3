@@ -11,5 +11,3 @@ The owner of a small restaurant wants a new information system to store data for
 7. A waiter has an unique numerical identifier, a name, an address and a phone number.
 8. In some cases it is important to store information about the client that consumed the meal. A client has a tax identification number, a name and an address.
 
-   
-10. <img width="1562" alt="Screenshot 2023-09-22 at 00 57 36" src="https://github.com/david-istvan/2me3/assets/71467150/965fa905-35aa-464f-afea-a7795c5775cf">
