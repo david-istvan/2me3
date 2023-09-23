@@ -1,5 +1,15 @@
-# UML
+# UML class diagrams
 
+
+## Pets
+
+1. A house may have any number of pets living in it
+2. The two possible types of pets that can live in a house are dogs and cats
+3. Each dog or cat has a name
+4. An animal’s house is its one and only home
+5. You can ell an animal to make noise and it will do its thing
+
+## Restaurant
 The owner of a small restaurant wants a new information system to store data for all meals consumed there and also to keep a record of ingredients kept in stock. After some research he reached the following requirements list:
 
 1. Each ingredient has a name, a measuring unit (e.g. olive oil is measured in liters, while eggs are unit based) and a quantity in stock. There are no two ingredients with the same name.
