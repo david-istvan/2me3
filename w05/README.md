@@ -1,4 +1,3 @@
 # UML in a modeling tool
 
-- Install StarUML (https://staruml.io/download/)
-- Install the Java extension by clicking Tools > Extension Manager > Search: Java
+See the announcement on Avenue: https://avenue.cllmcmaster.ca/d2l/le/news/572054/811483/view.
